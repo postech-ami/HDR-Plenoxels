@@ -1,0 +1,81 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: hdr-plenoxels, Class: book ====================
+AVERAGES
+PSNR: 26.948223018120128
+SSIM: 0.8351210015160697
+LPIPS: 0.317013144493103
+Model: hdr-plenoxels, Class: classroom ====================
+AVERAGES
+PSNR: 26.452121194371852
+SSIM: 0.8769540360995701
+LPIPS: 0.33107830796922955
+Model: hdr-plenoxels, Class: kitchen ====================
+AVERAGES
+PSNR: 31.158432236441122
+SSIM: 0.9371236903326852
+LPIPS: 0.16101525191749846
+Model: hdr-plenoxels, Class: monk ====================
+AVERAGES
+PSNR: 24.346676970682598
+SSIM: 0.7998242548533848
+LPIPS: 0.3643580994435719
+Model: hdr-plenoxels, Class: room ====================
+AVERAGES
+PSNR: 25.378447783392026
+SSIM: 0.8692066924912589
+LPIPS: 0.3377897228513445
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: nerf-w, Class: book ====================
+AVERAGES
+PSNR: 31.12084262521837
+SSIM: 0.9090012567383903
+LPIPS: 0.23761527240276337
+Model: nerf-w, Class: classroom ====================
+AVERAGES
+PSNR: 32.85062841311326
+SSIM: 0.9338124649865287
+LPIPS: 0.21487041669232504
+Model: nerf-w, Class: kitchen ====================
+AVERAGES
+PSNR: 33.24787761231293
+SSIM: 0.9501530187470573
+LPIPS: 0.15554302079336985
+Model: nerf-w, Class: monk ====================
+AVERAGES
+PSNR: 27.182582185539708
+SSIM: 0.8108787366322109
+LPIPS: 0.3512582395757948
+Model: nerf-w, Class: room ====================
+AVERAGES
+PSNR: 32.93887040840144
+SSIM: 0.9320848328726632
+LPIPS: 0.186762877873012
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_100, Class: book ====================
+AVERAGES
+PSNR: 22.152578012444177
+SSIM: 0.8244761228561401
+LPIPS: 0.29109327282224384
+Model: adop_100, Class: classroom ====================
+AVERAGES
+PSNR: 21.035492208530204
+SSIM: 0.7997724839619228
+LPIPS: 0.34480656896318707
+Model: adop_100, Class: kitchen ====================
+AVERAGES
+PSNR: 20.127020797430664
+SSIM: 0.8268635528428214
+LPIPS: 0.2803381553718022
+Model: adop_100, Class: monk ====================
+AVERAGES
+PSNR: 21.921168667641684
+SSIM: 0.7641328998974392
+LPIPS: 0.3915875426360539
+Model: adop_100, Class: room ====================
+AVERAGES
+PSNR: 19.254777950378923
+SSIM: 0.8343697275434222
+LPIPS: 0.32924595049449373

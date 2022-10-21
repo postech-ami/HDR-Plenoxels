@@ -1,0 +1,40 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: llff_book_mode_3 ====================
+AVERAGES
+PSNR: 26.708709084420672
+SSIM: 0.8369503957884652
+LPIPS: 0.3151393575327737
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: llff_classroom_mode_3 ====================
+AVERAGES
+PSNR: 25.58151897299381
+SSIM: 0.8746200629643032
+LPIPS: 0.34546592618737904
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: llff_kitchen_mode_3 ====================
+AVERAGES
+PSNR: 31.06157683157062
+SSIM: 0.9332398091043744
+LPIPS: 0.1680229710681098
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: llff_monk_mode_3 ====================
+AVERAGES
+PSNR: 24.598021987858157
+SSIM: 0.8038977980613708
+LPIPS: 0.3742412711892809
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: llff_room_mode_3 ====================
+AVERAGES
+PSNR: 25.13961697292627
+SSIM: 0.8780299084527152
+LPIPS: 0.34489188875470844

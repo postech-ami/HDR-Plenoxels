@@ -1,0 +1,42 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_100, Class: kitchen ====================
+AVERAGES
+PSNR: 20.127020797430664
+SSIM: 0.8268635528428214
+LPIPS: 0.2803381553718022
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_200, Class: kitchen ====================
+AVERAGES
+PSNR: 27.12408595595966
+SSIM: 0.9065370048795428
+LPIPS: 0.20049424469470978
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_300, Class: kitchen ====================
+AVERAGES
+PSNR: 27.42704676378807
+SSIM: 0.9086555923734393
+LPIPS: 0.19394112059048244
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_400, Class: kitchen ====================
+AVERAGES
+PSNR: 27.71509214206474
+SSIM: 0.9096790977886745
+LPIPS: 0.18979356118610927
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_500, Class: kitchen ====================
+AVERAGES
+PSNR: 27.900445138343546
+SSIM: 0.9098737835884094
+LPIPS: 0.18615078926086426
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_600, Class: kitchen ====================
+AVERAGES
+PSNR: 27.976041315372544
+SSIM: 0.9101784229278564
+LPIPS: 0.18547379119055613

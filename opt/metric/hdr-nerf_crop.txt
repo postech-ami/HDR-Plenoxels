@@ -1,0 +1,24 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: mid ====================
+AVERAGES
+PSNR: 30.770021670292575
+SSIM: 0.9347919395991734
+LPIPS: 0.2130590762410845
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: mix ====================
+AVERAGES
+PSNR: 17.727280753265845
+SSIM: 0.7636270693370274
+LPIPS: 0.4903572712625776
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: tone ====================
+AVERAGES
+PSNR: 27.887825127771286
+SSIM: 0.9103080970900399
+LPIPS: 0.24407361234937394

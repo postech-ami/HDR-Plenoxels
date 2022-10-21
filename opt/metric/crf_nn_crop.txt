@@ -1,0 +1,7 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Type: kitchen_tone_hdr-nerf ====================
+AVERAGES
+PSNR: 22.882055403637874
+SSIM: 0.9105470180511475
+LPIPS: 0.20998651002134597

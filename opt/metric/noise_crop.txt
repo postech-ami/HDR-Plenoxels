@@ -1,0 +1,16 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: classroom ====================
+AVERAGES
+PSNR: 27.379300717422606
+SSIM: 0.8709507073674884
+LPIPS: 0.345650851726532
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+[img file len]: 7
+Type: kitchen ====================
+AVERAGES
+PSNR: 29.52630118413986
+SSIM: 0.904946676322392
+LPIPS: 0.3059664453778948

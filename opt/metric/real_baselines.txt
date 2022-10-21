@@ -1,0 +1,44 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: hdr-plenoxels, Class: coffee ====================
+AVERAGES
+PSNR: 27.0220504438347
+SSIM: 0.9268625736236572
+LPIPS: 0.23798444867134094
+Model: hdr-plenoxels, Class: corn ====================
+AVERAGES
+PSNR: 25.15735844704286
+SSIM: 0.79818274974823
+LPIPS: 0.33957602381706237
+Model: hdr-plenoxels, Class: cute ====================
+AVERAGES
+PSNR: 32.85028615735659
+SSIM: 0.9574875712394715
+LPIPS: 0.24544402956962585
+Model: hdr-plenoxels, Class: dark_desk ====================
+AVERAGES
+PSNR: 28.2563377153296
+SSIM: 0.9067017316818238
+LPIPS: 0.2864699125289917
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/ugkim/miniconda3/envs/plenoxel/lib/python3.8/site-packages/lpips/weights/v0.1/vgg.pth
+Model: adop_100, Class: coffee ====================
+AVERAGES
+PSNR: 21.156767549604552
+SSIM: 0.879060423374176
+LPIPS: 0.23159103095531464
+Model: adop_100, Class: corn ====================
+AVERAGES
+PSNR: 20.178407057018536
+SSIM: 0.7875059723854065
+LPIPS: 0.28323153257369993
+Model: adop_100, Class: cute ====================
+AVERAGES
+PSNR: 18.372555701474777
+SSIM: 0.8336601376533508
+LPIPS: 0.29288392066955565
+Model: adop_100, Class: dark_desk ====================
+AVERAGES
+PSNR: 16.273290728347128
+SSIM: 0.7031823039054871
+LPIPS: 0.30640395879745486

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: svox2
+Version: 0.0.1.dev0+sphtexcub.lincolor.fast
+Summary: PyTorch sparse voxel volume extension, including custom CUDA kernels
+Home-page: UNKNOWN
+Author: Alex Yu
+Author-email: alexyu99126@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+PyTorch sparse voxel volume extension, including custom CUDA kernels
+
