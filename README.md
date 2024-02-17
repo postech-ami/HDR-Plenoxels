@@ -94,7 +94,7 @@ You can get PSNR, SSIM, and LPIPS scores for right-half novel views.
 
 ## Citation
 
-```
+```BibTeX
 @inproceedings{jun2022hdr,
     title     = {HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields},
     author    = {Jun-Seong, Kim and Yu-Ji, Kim and Ye-Bin, Moon and Oh, Tae-Hyun},
