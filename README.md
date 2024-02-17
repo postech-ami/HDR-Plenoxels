@@ -39,8 +39,7 @@ In the repo root directory.
 We deploy our HDR training dataset for LLFF format, and the dataset will be auto-detected.
 
 
-Please get the synthetic and real LLFF datasets from:
-<https://postechackr-my.sharepoint.com/personal/gucka28_postech_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgucka28%5Fpostech%5Fac%5Fkr%2FDocuments%2FHDR%2DPlenoxels%5Fdataset&ga=1>.
+Please get the synthetic and real LLFF datasets from [this link](<https://postechackr-my.sharepoint.com/personal/gucka28_postech_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgucka28%5Fpostech%5Fac%5Fkr%2FDocuments%2FHDR%2DPlenoxels%5Fdataset&ga=1>).
 
 
 ## Voxel Optimization (Training)
