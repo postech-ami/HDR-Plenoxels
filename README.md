@@ -77,11 +77,11 @@ We do not provide pretrained checkpoints.
 
 ## Evaluation
 
-Use `opt/shell/render/render_hdr.sh` for rendering HDR radiance fields.
+- Use `opt/shell/render/render_hdr.sh` for rendering HDR radiance fields.
 
-Use `opt/shell/render/render_ldr.sh` for rendering LDR radiance fields which is final output.
+- Use `opt/shell/render/render_ldr.sh` for rendering LDR radiance fields which is final output.
 
-If you don't want to save all frames, which is very slow, add `--no_imsave` to avoid this.
+- If you don't want to save all frames, which is very slow, add `--no_imsave` to avoid this.
 
 ## Metric
 
@@ -90,7 +90,7 @@ Inside opt/, run
 CUDA_VISIBLE_DEVICES=0 python hdr_calc_metrics.py
 ```
 
-You can get PSNR, SSIM, and LPIPS scores for right-half novel views.
+- You can get PSNR, SSIM, and LPIPS scores for right-half novel views.
 
 ## Citation
 
